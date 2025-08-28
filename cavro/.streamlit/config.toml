@@ -1,0 +1,11 @@
+[server]
+# Disable the file watcher to prevent the PyTorch error
+fileWatcherType = "none"
+
+[browser]
+# Open in default browser automatically
+gatherUsageStats = false
+
+[runner]
+# Disable the magic commands
+magicEnabled = false

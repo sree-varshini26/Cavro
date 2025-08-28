@@ -1,0 +1,110 @@
+{
+    "data_scientist": {
+        "title": "Data Scientist",
+        "required_skills": ["python", "machine learning", "statistics", "data analysis", "sql", "data visualization", "pandas", "numpy", "scikit-learn"],
+        "description": "Analyze and interpret complex data to help organizations make better decisions using statistical and machine learning techniques.",
+        "salary_range": [95000, 165000],
+        "growth_outlook": "Much faster than average (31% growth projected)",
+        "education": ["Master's in Data Science", "PhD in related field"],
+        "certifications": ["AWS Certified Data Analytics", "Google Data Analytics"]
+    },
+    "ml_engineer": {
+        "title": "Machine Learning Engineer",
+        "required_skills": ["python", "machine learning", "deep learning", "tensorflow", "pytorch", "software engineering", "mlops"],
+        "description": "Design and implement machine learning models and systems that can learn from and make decisions based on data.",
+        "salary_range": [110000, 185000],
+        "growth_outlook": "Much faster than average (22% growth projected)",
+        "education": ["Master's in Computer Science", "PhD in ML/AI"],
+        "certifications": ["Google Professional ML Engineer", "AWS Certified ML Specialty"]
+    },
+    "cloud_architect": {
+        "title": "Cloud Solutions Architect",
+        "required_skills": ["aws", "azure", "gcp", "cloud computing", "devops", "kubernetes", "docker", "infrastructure as code"],
+        "description": "Design and implement cloud-based solutions and infrastructure for organizations migrating to or operating in the cloud.",
+        "salary_range": [120000, 200000],
+        "growth_outlook": "Much faster than average (17% growth projected)",
+        "education": ["Bachelor's in Computer Science", "Master's in Cloud Computing"],
+        "certifications": ["AWS Certified Solutions Architect", "Google Professional Cloud Architect", "Microsoft Certified: Azure Solutions Architect"]
+    },
+    "cybersecurity_analyst": {
+        "title": "Cybersecurity Analyst",
+        "required_skills": ["network security", "vulnerability assessment", "siem", "firewalls", "incident response", "penetration testing"],
+        "description": "Protect organizations' computer systems and networks from cyber threats and security breaches.",
+        "salary_range": [85000, 155000],
+        "growth_outlook": "Much faster than average (33% growth projected)",
+        "education": ["Bachelor's in Cybersecurity", "Computer Science with security focus"],
+        "certifications": ["CompTIA Security+", "CEH", "CISSP"]
+    },
+    "devops_engineer": {
+        "title": "DevOps Engineer",
+        "required_skills": ["ci/cd", "docker", "kubernetes", "aws/azure/gcp", "terraform", "ansible", "jenkins", "git"],
+        "description": "Bridge the gap between software development and IT operations, focusing on automation and continuous delivery.",
+        "salary_range": [100000, 180000],
+        "growth_outlook": "Faster than average (21% growth projected)",
+        "education": ["Bachelor's in Computer Science", "Software Engineering"],
+        "certifications": ["AWS Certified DevOps Engineer", "Docker Certified Associate", "CKAD"]
+    },
+    "data_engineer": {
+        "title": "Data Engineer",
+        "required_skills": ["sql", "python", "etl", "data warehousing", "hadoop", "spark", "big data"],
+        "description": "Design, build, and maintain data processing systems and large-scale data infrastructure.",
+        "salary_range": [95000, 170000],
+        "growth_outlook": "Much faster than average (25% growth projected)",
+        "education": ["Bachelor's in Computer Science", "Data Engineering"],
+        "certifications": ["Google Cloud Professional Data Engineer", "AWS Certified Data Analytics"]
+    },
+    "ux_ui_designer": {
+        "title": "UX/UI Designer",
+        "required_skills": ["user research", "wireframing", "prototyping", "figma", "sketch", "ui/ux design", "user testing"],
+        "description": "Create user-centered designs for digital products, focusing on usability, accessibility, and user satisfaction.",
+        "salary_range": [75000, 150000],
+        "growth_outlook": "Faster than average (13% growth projected)",
+        "education": ["Bachelor's in Design", "HCI", "Graphic Design"],
+        "certifications": ["Google UX Design Certificate", "NN/g UX Certification"]
+    },
+    "product_manager": {
+        "title": "Product Manager",
+        "required_skills": ["product strategy", "agile", "jira", "market research", "product roadmapping", "stakeholder management"],
+        "description": "Define product strategy, gather requirements, and work with cross-functional teams to deliver successful products.",
+        "salary_range": [90000, 190000],
+        "growth_outlook": "Faster than average (10% growth projected)",
+        "education": ["Business Administration", "Computer Science", "MBA"],
+        "certifications": ["Pragmatic Institute Certification", "AIPMM"]
+    },
+    "blockchain_developer": {
+        "title": "Blockchain Developer",
+        "required_skills": ["solidity", "ethereum", "smart contracts", "blockchain", "cryptography", "web3"],
+        "description": "Develop and implement blockchain-based applications and smart contracts.",
+        "salary_range": [100000, 200000],
+        "growth_outlook": "Much faster than average (23% growth projected)",
+        "education": ["Computer Science", "Cryptography"],
+        "certifications": ["Blockchain Council Certifications", "Ethereum Developer Certification"]
+    },
+    "ai_researcher": {
+        "title": "AI Research Scientist",
+        "required_skills": ["machine learning", "deep learning", "research", "python", "pytorch/tensorflow", "nlp/computer vision"],
+        "description": "Conduct research to advance the field of artificial intelligence and develop new AI algorithms.",
+        "salary_range": [120000, 220000],
+        "growth_outlook": "Much faster than average (22% growth projected)",
+        "education": ["PhD in Computer Science", "AI/ML"],
+        "certifications": ["Deep Learning Specialization", "Advanced AI Certification"]
+    },
+    "full_stack_developer": {
+        "title": "Full Stack Developer",
+        "required_skills": ["javascript", "react/angular/vue", "node.js", "databases", "apis", "html/css", "git"],
+        "description": "Develop both front-end and back-end components of web applications.",
+        "salary_range": [85000, 160000],
+        "growth_outlook": "Faster than average (13% growth projected)",
+        "education": ["Computer Science", "Web Development"],
+        "certifications": ["Full Stack Web Development Nanodegree", "MERN Stack Certification"]
+    },
+    "data_analyst": {
+        "title": "Data Analyst",
+        "required_skills": ["sql", "excel", "tableau/power bi", "statistics", "data visualization", "python/r"],
+        "description": "Interpret data and turn it into information which can offer ways to improve a business.",
+        "salary_range": [65000, 120000],
+        "growth_outlook": "Much faster than average (25% growth projected)",
+        "education": ["Mathematics", "Statistics", "Business Analytics"],
+        "certifications": ["Google Data Analytics Certificate", "Microsoft Certified: Data Analyst Associate"]
+    }
+}
